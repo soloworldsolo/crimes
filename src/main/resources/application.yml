@@ -1,0 +1,9 @@
+spring:
+  data:
+    neo4j:
+      database: person
+  neo4j:
+    uri: bolt://localhost:7687
+    authentication:
+      username: neo4j
+      password: soloworld75
